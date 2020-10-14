@@ -1,0 +1,39 @@
+ O volume na unidade C ‚ Acer
+ O N£mero de S‚rie do Volume ‚ 269C-68D3
+
+ Pasta de C:\Program Files
+
+25/09/2020  20:18    <DIR>          .
+25/09/2020  20:18    <DIR>          ..
+29/08/2017  07:19    <DIR>          AVAST Software
+04/12/2017  18:33    <DIR>          Bonjour
+03/01/2020  09:53    <DIR>          CCleaner
+24/08/2020  21:52    <DIR>          Common Files
+29/03/2018  01:20    <DIR>          DAEMON Tools Lite
+07/12/2018  16:17    <DIR>          Diebold
+03/09/2020  22:17    <DIR>          dotnet
+24/08/2020  22:09    <DIR>          Elantech
+31/10/2018  00:46    <DIR>          Epic Games
+04/09/2020  18:42    <DIR>          Git
+07/12/2019  11:55    <DIR>          Internet Explorer
+24/02/2020  21:03    <DIR>          McAfee
+01/09/2020  20:39    <DIR>          Microsoft Office 15
+07/12/2019  06:14    <DIR>          ModifiableWindowsApps
+24/08/2020  20:56    <DIR>          MSBuild
+24/08/2020  21:47    <DIR>          Realtek
+24/08/2020  20:56    <DIR>          Reference Assemblies
+09/09/2019  19:55    <DIR>          rempl
+28/04/2017  21:06    <DIR>          Samsung
+24/08/2020  21:52    <DIR>          UNP
+22/08/2018  21:33    <DIR>          VEGAS
+24/08/2020  22:46    <DIR>          Windows Defender
+24/08/2020  21:47    <DIR>          Windows Mail
+24/08/2020  21:35    <DIR>          Windows Media Player
+07/12/2019  11:57    <DIR>          Windows Multimedia Platform
+24/08/2020  22:47    <DIR>          Windows NT
+24/08/2020  21:35    <DIR>          Windows Photo Viewer
+07/12/2019  11:57    <DIR>          Windows Portable Devices
+07/12/2019  06:31    <DIR>          Windows Security
+07/12/2019  06:31    <DIR>          WindowsPowerShell
+               0 arquivo(s)              0 bytes
+              32 pasta(s)   316.576.579.584 bytes dispon¡veis
